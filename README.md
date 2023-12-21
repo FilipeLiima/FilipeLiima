@@ -1,4 +1,5 @@
-![Component 34](https://github.com/FilipeLiima/FilipeLiima/assets/131200594/e786bf16-3ae6-42f6-996d-e42c464dbbf2)
+![Uploading Component 34.png…]()
+
 
 Profissional com formação em Engenharia. Atualmente sou graduando em Ciências 
 da Computação com objetivo de realizar transição de carreira para área de 
