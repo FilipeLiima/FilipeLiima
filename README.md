@@ -1,4 +1,5 @@
-![Uploading Component 34.png…]()
+![Component 34](https://github.com/FilipeLiima/FilipeLiima/assets/131200594/b7dcbefd-76d7-43e2-b681-c2deaecb11a7)
+
 
 
 Profissional com formação em Engenharia. Atualmente sou graduando em Ciências 
