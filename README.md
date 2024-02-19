@@ -1,5 +1,4 @@
-![Component 35](https://github.com/FilipeLiima/FilipeLiima/assets/131200594/0cfc12b1-9a18-4498-8433-a7158a8b4b59)
-
+![image](https://github.com/FilipeLiima/FilipeLiima/assets/131200594/4628b84e-9ac6-47a3-b7b9-1b6c81796bb5)
 
 
 
