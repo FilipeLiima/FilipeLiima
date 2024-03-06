@@ -2,8 +2,4 @@
 
 
 
-Profissional com formação em Engenharia. Atualmente sou graduando em Ciências 
-da Computação com objetivo de realizar transição de carreira para área de 
-tecnologia, enquanto me dedico a projetos voltados para Big Data, Machine 
-Learning e Inteligência Artificial. Utilizo Python e Javascript como principais stacks de 
-desenvolvimento.
+Profissional com formação em Engenharia. Atualmente sou graduando em Ciências da Computação com objetivo de realizar transição de carreira para área de tecnologia, enquanto me dedico a projetos voltados para Front End, Machine Learning e Inteligência Artificial e Blockchain. Utilizo Python, JavaScript  e Solidity como principais stacks de desenvolvimento.
