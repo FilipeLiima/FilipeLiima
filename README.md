@@ -2,4 +2,4 @@
 
 
 
-Profissional com formação em Engenharia. Atualmente sou graduando em Ciências da Computação com objetivo de realizar transição de carreira para área de tecnologia, enquanto me dedico a projetos voltados para Front End, Machine Learning e Inteligência Artificial e Blockchain. Utilizo Python, JavaScript  e Solidity como principais stacks de desenvolvimento.
+Com mais de 9 anos de experiência colaborando com equipes multidisciplinares, desenvolvi uma paixão pela tecnologia que me levou a me tornar um desenvolvedor habilidoso. Minhas principais motivações residem em enfrentar desafios, otimizar processos por meio da análises, e criar soluções eficientes que proporcionem uma experiência de usuário excepcional. Estou constantemente em busca de novos desafios para expandir meu conhecimento e contribuir de forma significativa para o sucesso dos projetos em que estou envolvido.
