@@ -1,3 +1,6 @@
 Hey, I'm filipe 👋
 
-With over 9 years of experience collaborating with multidisciplinary teams, I have developed a passion for technology that has led me to delve into several areas, including blockchain, smart contracts, web development, and artificial intelligence. Throughout my journey, I have consistently sought out stimulating challenges, leveraging my skills to optimize processes through detailed analysis and create efficient solutions that deliver an exceptional user experience. My main motivations lie in tackling complex challenges, exploring new technologies, and making significant contributions to the success of the projects in which I am involved.
+I am an engineer and developer who works with front-end and web 3 solutions, 
+with expertise in TypeScript, Python and Solidity. My experience collaborating 
+with multidisciplinary teams, allows me to develop innovative solutions
+ensuring code quality and best development practices.
